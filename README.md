@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+A simple login/sign up page using purely html and css.
+=======
 Front-End internship test
 ---
 
@@ -51,3 +54,4 @@ Create a page that contains registration and login forms using only `HTML` and` 
 ##Useful links
 
 * Color palette: [**Adobe Color - Firenze**](https://color.adobe.com/pt/Firenze-color-theme-24198/ 'Adobe Color - Firenze')
+>>>>>>> a3bfe7c7c3dbb6bd1a3c8ba17b2bc19ad773eb5f
